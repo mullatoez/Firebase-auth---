@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990110537543",
+    "project_id": "fir-auth-email-7979d",
+    "storage_bucket": "fir-auth-email-7979d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990110537543:android:f16584878a84cba1a25e62",
+        "android_client_info": {
+          "package_name": "com.mullatoez.firebaseauthemailpassword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990110537543-618tj80iubgdhh7h75b20bitat2fknm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN0lpqLFG-V-9O-hBVFuFkpc7GU9yV3gU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990110537543-618tj80iubgdhh7h75b20bitat2fknm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
